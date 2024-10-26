@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Arrays", "06_Arrays\06_A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_DatabaseProject", "09_DatabaseProject\09_DatabaseProject.csproj", "{CACBB34C-C47B-468C-B541-96FC32CABFA3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_DatabaseCrud", "10_DatabaseCrud\10_DatabaseCrud.csproj", "{818B325E-B52D-4063-B2C8-7BE96EDE0585}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{CACBB34C-C47B-468C-B541-96FC32CABFA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CACBB34C-C47B-468C-B541-96FC32CABFA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CACBB34C-C47B-468C-B541-96FC32CABFA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{818B325E-B52D-4063-B2C8-7BE96EDE0585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{818B325E-B52D-4063-B2C8-7BE96EDE0585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{818B325E-B52D-4063-B2C8-7BE96EDE0585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{818B325E-B52D-4063-B2C8-7BE96EDE0585}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
